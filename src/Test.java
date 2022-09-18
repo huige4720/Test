@@ -8,5 +8,6 @@ public class Test {
         System.out.println("6666");
         //push
         System.out.println("push");
+        System.out.println("pull");
     }
 }
