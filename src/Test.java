@@ -6,5 +6,7 @@ public class Test {
         System.out.println("two");
         System.out.println("master222");
         System.out.println("6666");
+        //push
+        System.out.println("push");
     }
 }
